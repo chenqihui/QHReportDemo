@@ -1,0 +1,47 @@
+[
+    {
+        "id": 2001,
+        "name": "色情内容",
+        "isSelected": false
+    },
+    {
+        "id": 2002,
+        "name": "敏感信息",
+        "isSelected": false
+    },
+    {
+        "id": 2003,
+        "name": "恶意欺诈",
+        "isSelected": false
+    },
+    {
+        "id": 2004,
+        "name": "违法侵权",
+        "isSelected": false
+    },
+    {
+        "id": 2005,
+        "name": "垃圾信息",
+        "isSelected": false
+    },
+    {
+        "id": 2006,
+        "name": "暴力行为",
+        "isSelected": false
+    },
+    {
+        "id": 2007,
+        "name": "未成年人不良信息",
+        "isSelected": false
+    },
+    {
+        "id": 2008,
+        "name": "网络暴力有害信息",
+        "isSelected": false
+    },
+    {
+        "id": 2009,
+        "name": "涉政举报",
+        "isSelected": false
+    },
+]
